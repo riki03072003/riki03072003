@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @riki03072003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m KAUSHIK SAHA 
+- 👀 I’m interested in ... WEB DEVELOPMENT
+- 🌱 I’m currently learning ... PYTHON
+- 💞️ I’m looking to collaborate on ... NOTHING
+- 📫 How to reach me ...MAIL ME kaushiksaha5039@gmail.com
 
 <!---
 riki03072003/riki03072003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
